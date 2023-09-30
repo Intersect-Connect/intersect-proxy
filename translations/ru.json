@@ -1,0 +1,7 @@
+{
+    "Intersect Proxy": "Прокси Intersect",
+    "Erreur : Les fichiers de certificat ou de clé sont introuvables": "Ошибка: Файлы сертификата или ключа не найдены",
+    "Requête entrante vers le serveur proxy :": "Входящий запрос на сервер прокси:",
+    "Erreur dans la gestion du proxy :": "Ошибка в обработке прокси:",
+    "Serveur proxy reverse HTTPS écoutant sur le port": "Обратный прокси-сервер HTTPS прослушивает порт"
+}

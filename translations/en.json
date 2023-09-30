@@ -1,0 +1,7 @@
+{
+    "Intersect Proxy": "Intersect Proxy",
+    "Erreur : Les fichiers de certificat ou de clé sont introuvables": "Error: Certificate or key files not found",
+    "Requête entrante vers le serveur proxy :": "Incoming request to proxy server:",
+    "Erreur dans la gestion du proxy :": "Error in proxy handling:",
+    "Serveur proxy reverse HTTPS écoutant sur le port": "Reverse HTTPS proxy server listening on port"
+}
