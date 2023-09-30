@@ -1,5 +1,5 @@
 # Intersect Proxy
-### Version : **1.0.0**=
+### Version : **1.0.0**
 ### Can be used in prod : **yes**
 ### Requirements : 
     Nodejs, 
