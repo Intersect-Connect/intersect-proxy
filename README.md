@@ -10,10 +10,9 @@
 
 ## How to use ?
 
-- Clone the repository
+- Download the latest version :  https://github.com/Intersect-Connect/intersect-proxy/releases/tag/1.0.0
 - Open a terminal
 - Reach Intersect Proxy Folder with `cd /proxyserverfolder`
-- Type `npm install`
 - Change .env value with your data
 - Once all is done type `node index`.
 
